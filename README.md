@@ -6,7 +6,7 @@ INSTALL INSTRUCTIONS:
 
 Top right -> Green "Code" Button -> Download Zip
 
-Take the "TMMCustomSounds" folder from the zip and place it in the root of your wow installation directory.
+Copy the "TMMCustomSounds" folder from the zip and place it in the root of your wow installation directory.
 
 e.g. : C:\Program Files (x86)\World of Warcraft\_classic_\TMMCustomSounds
 

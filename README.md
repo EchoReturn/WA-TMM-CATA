@@ -8,7 +8,7 @@ Top right -> Green "Code" Button -> Download Zip
 
 Copy the "TMMCustomSounds" folder from the zip and place it in the root of your wow installation directory.
 
-e.g. : "C:\Program Files (x86)\World of Warcraft\`_classic_`\TMMCustomSounds"
+e.g. : "C:\Program Files (x86)\World of Warcraft\_classic_\TMMCustomSounds"
 
 Import the WA string below into the Wow WeakAura addon:
 

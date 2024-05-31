@@ -10,7 +10,6 @@ Extract the "TMMCustomSounds" folder from the downloaded zip file into the root 
 
 e.g. : `C:\Program Files (x86)\World of Warcraft\_classic_\TMMCustomSounds\`
 
-[blob:https://imgur.com/68cf64de-fd1e-41d7-a68d-d6fc5c655408](https://imgur.com/a/9I0cpMB)
 
 Import the WA string below into the Wow WeakAura addon:
 
